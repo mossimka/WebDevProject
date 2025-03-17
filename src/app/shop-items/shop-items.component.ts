@@ -7,24 +7,8 @@ import { RouterModule } from '@angular/router';
   selector: 'app-shop-items',
   standalone: true,
   imports: [CommonModule, RouterModule],
-  template: `
-    <section class="listing">
-      <div class="listing-photo-frame">
-        <img class="listing-photo" [src]="product.photo" alt="Photo of: {{ product.name }}">
-        <div class="actions">
-          <div div class="likes" (click)="like()"><img src="/assets/like-icon.png"> {{product.likes}}</div>
-          <p class="remove" (click)="remove()">🗑</p>  
-        </div>
-      </div>
-      <div class="listing-info">
-        <h2 class="listing-heading"> {{ product.name }} </h2>
-        <h3>☆ {{product.rating}}</h3>
-        <p class="lisitng-price"> {{ product.price }} ₸ </p>
-        <button class="primary" [routerLink]="['/details', product.id]">View Details</button>
-      </div>
-    </section>
-  `,
-  styleUrl: `./shop-items.css`,
+  templateUrl: './shop-items.component.html',
+  styleUrl: `./shop-items.component.css`
 })
 export class ShopItemsComponent {
   @Input() product!:Product;
