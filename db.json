@@ -15,91 +15,91 @@
       "rating": 4.9,
       "likes": 0
     },
-    {
-      "id": 1,
-      "name": "Cort CR250 VB",
-      "price": 186990,
-      "photo": "/assets/cort-cr250.jpg",
-      "subPhotos": [
-        "https://resources.cdn-kaspi.kz/img/m/p/h4a/h4c/63768941559838.jpg?format=gallery-medium",
-        "https://resources.cdn-kaspi.kz/img/m/p/h5a/hb7/63768942149662.jpg?format=gallery-medium"
-      ],
-      "type": "guitars",
-      "description": "The Cort CR250 VB is a versatile electric guitar that's perfect for both beginners and experienced players. It boasts a classic single-cutaway design, a comfortable mahogany body, and a rosewood fretboard, delivering a warm, resonant tone that's ideal for a wide range of musical styles.",
-      "availableUnits": 3,
-      "country": "Korea",
-      "link": "https://kaspi.kz/shop/p/cort-cr250-vb-brown-14200024/?c=750000000",
-      "rating": 4.8,
-      "likes": 0
-    },
-    {
-      "id": 2,
-      "name": "Ibanez GRG170DX BKN",
-      "price": 153000,
-      "photo": "/assets/ibanez-grg170dx.jpg",
-      "subPhotos": [
-        "https://resources.cdn-kaspi.kz/img/m/p/h59/hd7/69821626089502.jpg?format=gallery-medium",
-        "https://resources.cdn-kaspi.kz/img/m/p/h96/h42/69821626613790.jpg?format=gallery-medium"
-      ],
-      "type": "guitars",
-      "description": "Shred with style! The Ibanez GRG170DX BKN is a high-performance electric guitar designed for speed and precision. Its sleek, thin neck and powerful humbucking pickups make it a favorite for rock and metal players.",
-      "availableUnits": 1,
-      "country": "Japan",
-      "link": "https://kaspi.kz/shop/p/ibanez-grg170dx-bkn-chernyi-109248047/?c=750000000",
-      "rating": 5,
-      "likes": 0
-    },
-    {
-      "id": 3,
-      "name": "Marshall DSL5CR",
-      "price": 280000,
-      "photo": "/assets/marshall-dsl5cr.jpg",
-      "subPhotos": [
-        "https://resources.cdn-kaspi.kz/img/m/p/he5/h84/79298159706142.jpg?format=gallery-medium",
-        "https://resources.cdn-kaspi.kz/img/m/p/h37/h51/79298160754718.jpg?format=gallery-medium"
-      ],
-      "type": "accessories",
-      "description": "Unleash legendary Marshall tone with the DSL5CR. This compact combo amplifier delivers 5 watts of pure valve power, perfect for practicing at home or recording. With two channels, classic gain controls, and an onboard reverb, you can dial in a wide range of iconic Marshall sounds.",
-      "availableUnits": 4,
-      "country": "USA",
-      "link": "https://kaspi.kz/shop/p/marshall-dsl5cr-e-109545659/?c=750000000",
-      "rating": 4.6,
-      "likes": 0
-    },
-    {
-      "id": 4,
-      "name": "Fender Deluxe Series Cable 4.5m",
-      "price": 23000,
-      "photo": "/assets/fender-deluxe-cable.jpg",
-      "subPhotos": [
-        "https://m.media-amazon.com/images/I/61qU5UQc7HL._AC_UF1000,1000_QL80_.jpg",
-        "https://muzzone.kz/images/thumbnails/264/264/detailed/21/Deluxe_Series_Instrument_Cable.jpg"
-      ],
-      "type": "accessories",
-      "description": "Ensure pristine signal transfer with the Fender Deluxe Series Cable. This high-quality instrument cable features durable construction, top-notch shielding, and gold-plated connectors for optimal clarity and performance.",
-      "availableUnits": 10,
-      "country": "USA",
-      "link": "https://kaspi.kz/shop/p/fender-deluxe-series-099-0820-086-4-5-m-bezhevyi-102138304/?c=750000000",
-      "rating": 4.8,
-      "likes": 0
-    },
-    {
-      "id": 5,
-      "name": "Fender FA-345CE Auditorium",
-      "price": 290000,
-      "photo": "/assets/fender-fa-345ce.jpg",
-      "subPhotos": [
-        "https://resources.cdn-kaspi.kz/img/m/p/he9/h7f/63810605973534.jpg?format=gallery-medium",
-        "https://resources.cdn-kaspi.kz/img/m/p/h50/h6d/63810601713694.jpg?format=gallery-medium"
-      ],
-      "type": "guitars",
-      "description": "The Fender FA-345CE Auditorium is a beautifully crafted acoustic-electric guitar that delivers a rich, full sound. Its auditorium body shape provides balanced tone and projection, making it ideal for both strumming and fingerpicking.",
-      "availableUnits": 3,
-      "country": "USA",
-      "link": "https://kaspi.kz/shop/p/fender-fa-345ce-auditorium-3-tone-tea-burst-14100479/?c=750000000",
-      "rating": 4,
-      "likes": 0
-    },
+      {
+        "id": 1,
+        "name": "Cort CR250 VB",
+        "price": 186990,
+        "photo": "/assets/cort-cr250.jpg",
+        "subPhotos": [
+          "https://resources.cdn-kaspi.kz/img/m/p/h4a/h4c/63768941559838.jpg?format=gallery-medium",
+          "https://resources.cdn-kaspi.kz/img/m/p/h5a/hb7/63768942149662.jpg?format=gallery-medium"
+        ],
+        "type": "guitars",
+        "description": "The Cort CR250 VB is a versatile electric guitar that's perfect for both beginners and experienced players. It boasts a classic single-cutaway design, a comfortable mahogany body, and a rosewood fretboard, delivering a warm, resonant tone that's ideal for a wide range of musical styles.",
+        "availableUnits": 3,
+        "country": "Korea",
+        "link": "https://kaspi.kz/shop/p/cort-cr250-vb-brown-14200024/?c=750000000",
+        "rating": 4.8,
+        "likes": 0
+      },
+      {
+        "id": 2,
+        "name": "Ibanez GRG170DX BKN",
+        "price": 153000,
+        "photo": "/assets/ibanez-grg170dx.jpg",
+        "subPhotos": [
+          "https://resources.cdn-kaspi.kz/img/m/p/h59/hd7/69821626089502.jpg?format=gallery-medium",
+          "https://resources.cdn-kaspi.kz/img/m/p/h96/h42/69821626613790.jpg?format=gallery-medium"
+        ],
+        "type": "guitars",
+        "description": "Shred with style! The Ibanez GRG170DX BKN is a high-performance electric guitar designed for speed and precision. Its sleek, thin neck and powerful humbucking pickups make it a favorite for rock and metal players.",
+        "availableUnits": 1,
+        "country": "Japan",
+        "link": "https://kaspi.kz/shop/p/ibanez-grg170dx-bkn-chernyi-109248047/?c=750000000",
+        "rating": 5,
+        "likes": 0
+      },
+      {
+        "id": 3,
+        "name": "Marshall DSL5CR",
+        "price": 280000,
+        "photo": "/assets/marshall-dsl5cr.jpg",
+        "subPhotos": [
+          "https://resources.cdn-kaspi.kz/img/m/p/he5/h84/79298159706142.jpg?format=gallery-medium",
+          "https://resources.cdn-kaspi.kz/img/m/p/h37/h51/79298160754718.jpg?format=gallery-medium"
+        ],
+        "type": "accessories",
+        "description": "Unleash legendary Marshall tone with the DSL5CR. This compact combo amplifier delivers 5 watts of pure valve power, perfect for practicing at home or recording. With two channels, classic gain controls, and an onboard reverb, you can dial in a wide range of iconic Marshall sounds.",
+        "availableUnits": 4,
+        "country": "USA",
+        "link": "https://kaspi.kz/shop/p/marshall-dsl5cr-e-109545659/?c=750000000",
+        "rating": 4.6,
+        "likes": 0
+      },
+      {
+        "id": 4,
+        "name": "Fender Deluxe Series Cable 4.5m",
+        "price": 23000,
+        "photo": "/assets/fender-deluxe-cable.jpg",
+        "subPhotos": [
+          "https://m.media-amazon.com/images/I/61qU5UQc7HL._AC_UF1000,1000_QL80_.jpg",
+          "https://muzzone.kz/images/thumbnails/264/264/detailed/21/Deluxe_Series_Instrument_Cable.jpg"
+        ],
+        "type": "accessories",
+        "description": "Ensure pristine signal transfer with the Fender Deluxe Series Cable. This high-quality instrument cable features durable construction, top-notch shielding, and gold-plated connectors for optimal clarity and performance.",
+        "availableUnits": 10,
+        "country": "USA",
+        "link": "https://kaspi.kz/shop/p/fender-deluxe-series-099-0820-086-4-5-m-bezhevyi-102138304/?c=750000000",
+        "rating": 4.8,
+        "likes": 0
+      },
+      {
+        "id": 5,
+        "name": "Fender FA-345CE Auditorium",
+        "price": 290000,
+        "photo": "/assets/fender-fa-345ce.jpg",
+        "subPhotos": [
+          "https://resources.cdn-kaspi.kz/img/m/p/he9/h7f/63810605973534.jpg?format=gallery-medium",
+          "https://resources.cdn-kaspi.kz/img/m/p/h50/h6d/63810601713694.jpg?format=gallery-medium"
+        ],
+        "type": "guitars",
+        "description": "The Fender FA-345CE Auditorium is a beautifully crafted acoustic-electric guitar that delivers a rich, full sound. Its auditorium body shape provides balanced tone and projection, making it ideal for both strumming and fingerpicking.",
+        "availableUnits": 3,
+        "country": "USA",
+        "link": "https://kaspi.kz/shop/p/fender-fa-345ce-auditorium-3-tone-tea-burst-14100479/?c=750000000",
+        "rating": 4,
+        "likes": 0
+      },
     {
       "id": 6,
       "name": "Fender Vintera II '50s Stratocaster Ocean Turquoise",
